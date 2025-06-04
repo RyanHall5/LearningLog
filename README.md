@@ -16,7 +16,7 @@ Keeping a record of my independent learning since completing High School incase 
   Further learning cybersecurity topics and skills via TryHackMe and did some experimenting with other Operating Systems and VMs via Kali Linux on Virtual Box
 - **Security+ 701**
   Watched entirety of Professor Messor Security+ training videos for CompTia Security+ 701 exam to learn about cyber and studied intensively with online resources but didn't take exam
--**Skills aquired**
+- **Skills aquired**
   Python, Java, basic HTML/CSS/JS, general cybersecurity knowledge, navigational github knowledge
 
 
