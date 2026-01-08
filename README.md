@@ -16,11 +16,13 @@ Keeping a record of my work since completing High School incase I need to refere
   Further learning cybersecurity topics and skills via TryHackMe and did some experimenting with other Operating Systems and VMs via Kali Linux on Virtual Box
 - **Security+ 701**
   Watched entirety of Professor Messor Security+ training videos for CompTia Security+ 701 exam to learn about cyber and studied intensively with online resources but didn't take exam
-- **21 Credits Counted Toward Degree**
+- **27 Credits Counted Toward Degree**
   - 5 on AP Calculus-BC  (8.0)
   - 5 on AP-Physics C: Mechanics (3.0)
   - 5 on APCSA (4.0)
   - 4 on AP Statistics (3.0)
+  - 4 on AP Physics I (3.0)
+  - 5 on APCSP (3.0)
   - Dual Enrollment Elementary ASL at Bristol Community College (3.0)
 - **Skills Aquired**
   Python, Java, basic HTML/CSS/JS, general cybersecurity knowledge, navigational github knowledge
