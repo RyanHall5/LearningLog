@@ -26,14 +26,14 @@ Keeping a record of my work since completing High School incase I need to refere
   Python, Java, basic HTML/CSS/JS, general cybersecurity knowledge, navigational github knowledge
 
 
-**Summer 2025**
+## Summer 2025
 - **CS50R**
   Audited CS50R to expose myself to a different kind of language than what I've already seen and also to learn basics of data science
 - **8 Credits Counted Toward Degree**
   - Dual Enrollment General Physics II at Massasoit Community College (5.0)
   - Dual Enrollment English 101 at Bristol Community College (3.0)
 
-**Fall 2025**
+## Fall 2025
 - **20 Credits Counted Toward Degree**
   - A in Intro to Computer Engineering (1.0)
   - A in Public Speaking (3.0)
@@ -52,5 +52,5 @@ Keeping a record of my work since completing High School incase I need to refere
   - ESP32 based project utilizing MPU6050 and BMP280 to log data and transmit over wifi to be caught by python script running on laptop.
   - Prototyping, SPI, I2C, WiFi, Python, C/C++, ESP32, MPU6050, BMP280,
  
-**Spring 2026**
+## Spring 2026
 - Current
