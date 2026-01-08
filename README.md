@@ -42,7 +42,7 @@ Keeping a record of my work since completing High School incase I need to refere
   - A in Multivariable Calculus (3.0)
   - A in Honors Exp of Place and Space (3.0)
   - CLEP Exam for Microeconomics (3.0)
--  **RIT Racing Electronics Team**
+- **RIT Racing Electronics Team**
   - Worked on new member project throughout the semester (PCB Vibration Testing Unit).
   - Learned Basics of Altium Designer for PCB Design
   - Learned + Practiced soldering/desoldering different kinds of components including through hole and SMD.
