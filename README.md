@@ -191,4 +191,4 @@ Keeping a record of my significant work/achievments/activities since Senior-Year
 
 ## Current
 
-- **Current**
+- Home Server Project: Built personal linux server using Dell Optiplex 3060 Micro, and a 14TB external harddrive. SSH via tailscale. Turned into nextcloud server for family and friends to use as a free, large storage, version of google photos/drive. 
